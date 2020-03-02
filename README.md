@@ -30,10 +30,10 @@ pip install -r requirements.txt
 
 #### Tasks done during this week:
 
-###### - Task 1: Detection metrics.
-###### - Task 2: Detection metrics. Temporal analysis.
-###### - Task 3: Optical flow evaluation metrics.
-###### - Task 4: Visual representation optical flow.
+- Task 1: Detection metrics.
+- Task 2: Detection metrics. Temporal analysis.
+- Task 3: Optical flow evaluation metrics.
+- Task 4: Visual representation optical flow.
 
 
 
