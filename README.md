@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 #### Execution
 
- All the implemented tasks can be run from ```bash main_week_1.py``` which is used to collect all work done.
+ All the implemented tasks can be run from ```main_week_1.py``` which is used to collect all work done.
 
 #### Directory structure
 
