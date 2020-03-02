@@ -17,18 +17,24 @@ The goal of this project is to learn the basic concepts and techniques related t
 
 The goal of this week 1 is to learn about the datasets to be used and implement the evaluation metrics and graphs used during the module.
 
-Tasks done during this week:
-
-- [x] Task 1: Detection metrics.
-- [x] Task 2: Detection metrics. Temporal analysis.
-- [x] Task 3: Optical flow evaluation metrics.
-- [x] Task 4: Visual representation optical flow.
-
 #### Installation
 
 ```bash
 pip install -r requirements.txt
 ```
+#### Execution
+
+ All the implemented tasks can be run from ```bash main_week_1.py``` which is used to collect all work done.
+
+#### Directory structure
+
+#### Tasks done during this week:
+
+###### - Task 1: Detection metrics.
+###### - Task 2: Detection metrics. Temporal analysis.
+###### - Task 3: Optical flow evaluation metrics.
+###### - Task 4: Visual representation optical flow.
+
 
 
 
