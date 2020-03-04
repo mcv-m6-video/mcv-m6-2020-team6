@@ -28,6 +28,30 @@ pip install -r requirements.txt
 
 #### Directory structure
 
+```bash
+├── datasets
+│   ├── kitti
+│   ├── train
+├── week_1
+│   ├── metrics
+│   │   ├── evaluation_funcs.py
+│   │   ├── Optical_flow_metrics.py
+│   │   ├── Optical_flow_visualization.py
+│   ├── model
+│   │   ├── bbox.py
+│   │   ├── frame.py
+│   │   ├── frameExtraction.py
+│   │   ├── read_annotation.py
+│   │   ├── video.py
+│   ├── utils
+│   │   ├── iou_over_time_RT.py
+│   │   ├── show_bb_singleFrame.py
+│   │   ├── show_frame.py
+│   ├── annotation.txt
+│   ├── main_week_1.py
+│   ├── requirements.txt
+```
+
 #### Tasks done during this week:
 
 - Task 1: Detection metrics.
