@@ -32,6 +32,7 @@ pip install -r requirements.txt
 ├── datasets
 │   ├── kitti
 │   ├── train
+├── results_week1
 ├── week_1
 │   ├── metrics
 │   │   ├── evaluation_funcs.py
