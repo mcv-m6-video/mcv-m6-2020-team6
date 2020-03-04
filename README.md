@@ -70,7 +70,7 @@ pip install -r requirements.txt
   
   In terms of temporal analysis we have used the IoU over time. In the next example we can observe the result of 3 detectors (Mask-RCNN,   YOLO V3, SSD512):
   
-  ![alt](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week1/histogram_45.png)
+  ![alt](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week1/iou_detectors.png)
 
 
 
