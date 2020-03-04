@@ -55,9 +55,26 @@ pip install -r requirements.txt
 #### Tasks done during this week:
 
 - Task 1: Detection metrics.
+
 - Task 2: Detection metrics. Temporal analysis.
+
+
+
+
 - Task 3: Optical flow evaluation metrics.
 - Task 4: Visual representation optical flow.
+
+  We have tried two different optical flow visualizations:
+  
+  quiver-based visualization           |  Color-based visualization
+:-------------------------:|:-------------------------:
+![](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week1/flow_gt_45_quiver.png)  |  ![](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week1/flow_gt_45_color.png)
+
+
+
+
+
+
 
 
 
