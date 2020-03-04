@@ -58,12 +58,12 @@ pip install -r requirements.txt
   
   To check our IoU implementation we applied two modifications on random displacement and deletion of the provided groundtruth as we       appreciate in the next example tested in frame 391:
   
- 
+  ![alt](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week1/iou_results_frame391.png)
   
   
   Also, we computed the 11 interpolated mean Average Precision (mAP@0.5) to evaluate our object detection in future labs:  
 
-
+  ![alt](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week1/precision_recall_11_interp_gt_video_modif1.png)
 
 
 - Task 2: Detection metrics. Temporal analysis.
