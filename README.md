@@ -66,9 +66,15 @@ pip install -r requirements.txt
 
   We have tried two different optical flow visualizations:
   
-  quiver-based visualization           |  Color-based visualization
-:-------------------------:|:-------------------------:
-![](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week1/flow_gt_45_quiver.png)  |  ![](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week1/flow_gt_45_color.png)
+  Quiver-based visualization 
+
+
+  ![alt](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week1/flow_gt_45_quiver.png)
+
+  Color-based visualization
+
+
+  ![alt](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week1/flow_gt_45_color.png)
 
 
 
