@@ -10,7 +10,7 @@ The goal of this project is to learn the basic concepts and techniques related t
 | Marc Pérez   | marc.perezq@e-campus.uab.cat | 
 | Claudia Baca    | claudiabaca.perez@e-campus.uab.cat  |
 | Quim Comas    | joaquim.comas@e-campus.uab.cat  |
-
+| Stás Morawski | malpunek@gmail.com |
 
 
 ### Week 1
