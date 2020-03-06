@@ -36,7 +36,7 @@ pip install -r requirements.txt
 │   │   ├── show_frame.py
 │   ├── annotation.txt
 │   ├── main_week_1.py
-├── requirements.txt
+│   ├── requirements.txt
 ```
 
 #### Tasks done during this week:
