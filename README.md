@@ -13,9 +13,12 @@ The goal of this project is to learn the basic concepts and techniques related t
 | Stás Morawski | malpunek@gmail.com |
 
 
-### [Week 1](https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_1)
 
-### Week_2
+# Project
+
+### [Week 1: Dataset and metrics implementations](https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_1)
+
+### Week_2: Background Subtraction 
 
 
 
