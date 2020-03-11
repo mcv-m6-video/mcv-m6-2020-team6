@@ -30,7 +30,7 @@ def evaluation_adaptative_non_recursive():
             with open(filename, 'wb') as f:
                 pickle.dump(video_fg, f)
 
-        gt_dir = 'D:/Documents/Proves_2/week_2/annotation_fix.txt'
+        gt_dir = 'annotation_fix.txt'
 
         gt_video = Video(Video().getgroundTruthown(gt_dir, 536, 2141))
 
