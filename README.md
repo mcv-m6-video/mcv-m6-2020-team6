@@ -18,7 +18,7 @@ The goal of this project is to learn the basic concepts and techniques related t
 
 ### [Week 1: Dataset and metrics implementations](https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_1)
 
-### [Week_2: Background Subtraction](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_2/Readme.md)
+### [Week_2: Background Subtraction](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_2)
 
 
 
