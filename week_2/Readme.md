@@ -70,7 +70,6 @@ pip install -r requirements.txt
 
 <div align="center">
   <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_2/week_2_resultats/Task_3_sota_own_adapt.gif">
-  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_2/week_2_resultats/Capture.PNG">
 </div>
 
 
@@ -81,7 +80,7 @@ pip install -r requirements.txt
 | Method | mAP@50 |
 |-|-|
 |Non-adaptive|0.2906|
-|Adaptive|0.3639|
+|Adaptive|0.4464|
 
 
 
@@ -96,7 +95,7 @@ pip install -r requirements.txt
 |MOG|0.5110|
 |MOG2|0.3539|
 |KNN|0.4549|
-|Own adap|0.3639|
+|Own adap|0.4464|
 
 
 - Task 4: Color sequences
