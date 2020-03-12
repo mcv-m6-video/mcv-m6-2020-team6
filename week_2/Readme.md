@@ -66,6 +66,13 @@ pip install -r requirements.txt
   <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_2/week_2_resultats/map_alpha.png">
 </div>
 
+
+<div align="center">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_2/week_2_resultats/map_alpha_rho_adapt.png">
+</div>
+
+
+
 - Task 2.1: Recursive Gaussian modeling
 
 <div align="center">
