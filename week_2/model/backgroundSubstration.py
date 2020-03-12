@@ -536,7 +536,7 @@ def background_gaussian_color(color,adaptive):
         rho=0.11
 
     else:
-        alpha=5.4
+        alpha=6.8
         rho=0.01
 
     train_list, test_list = get_frames(frames_dir, trainbackground=0.25)
