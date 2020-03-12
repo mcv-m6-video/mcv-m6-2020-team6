@@ -13,7 +13,7 @@ def evaluation_adaptative_non_recursive():
 
     map_list = []
 
-    rho_values = np.arange(0.1, 1.1, 0.1)
+    rho_values = np.arange(0.0º, 0.1, 0.005)
 
     for rho in rho_values:
 

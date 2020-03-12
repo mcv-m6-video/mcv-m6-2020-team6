@@ -510,7 +510,7 @@ def background_adaptive_gaussian():
     gt_dir = 'annotation_fix.txt'
 
     train_list, test_list = get_frames(frames_dir, trainbackground=0.25)
-    image_list_fg = fg_mask_single_gaussian(frames_dir, roi_path, alpha=4.75, adaptive=True, rho=1)
+    image_list_fg = fg_mask_single_gaussian(frames_dir, roi_path, alpha=6.6, adaptive=True, rho=0.01)
 
     listbboxes, listofmask, video_fg = connected_component_test(image_list_fg, min_area=1500, num_frame=536)
 
