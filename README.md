@@ -20,6 +20,7 @@ The goal of this project is to learn the basic concepts and techniques related t
 
 ### [Week_2: Background Subtraction](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_2)
 
+### Week_3: Object detection and tracking
 
 
 
