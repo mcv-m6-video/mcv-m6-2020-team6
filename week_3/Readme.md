@@ -64,15 +64,15 @@ pip install -r requirements.txt
 
 - Task 1.1: Of-the-Shelf Object Detection
 <div align="center">
-  <img src="">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_3/week_3_results/yolo_off_the_shelf.gif">
 </div>
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_3/week_3_results/retinanet_off_the_shelf.gif">
 </div>
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_3/week_3_results/mask_rcnn_off_the_shelf.gif">
 </div>
 
 
@@ -80,32 +80,7 @@ pip install -r requirements.txt
   
   
 <div align="center">
-  <img src="">
-</div>
-
-
-<div align="center">
-  <img src=".png">
-</div>
-
-<div align="center">
-  <img src=".png">
-</div>
-
-<div align="center">
-  <img src=".png">
-</div>
-
-<div align="center">
-  <img src=".png">
-</div>
-
-<div align="center">
-  <img src=".png">
-</div>
-
-<div align="center">
-  <img src=".png">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_3/week_3_results/Mask%20R-CNN%20fine-tune.gif">
 </div>
 
 
@@ -113,7 +88,7 @@ pip install -r requirements.txt
 - Task 2.1: Tracking by maximum overlap
 
 <div align="center">
-  <img src=".gif">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_3/week_3_results/gif_tracking_overlap.gif">
 </div>
 
 
@@ -122,7 +97,7 @@ pip install -r requirements.txt
 
 
 <div align="center">
-  <img src=".gif">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_3/week_3_results/gif_tracking_Kalman.gif">
 </div>
 
 
