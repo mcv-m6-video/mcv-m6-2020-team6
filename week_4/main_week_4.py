@@ -3,6 +3,7 @@ from week_4.metrics.Optical_flow_metrics import *
 from week_4.metrics.Optical_flow_visualization import *
 from week_4.metrics.blockmatching import *
 from week_4.videostabilization_off_the_shelf import *
+from week_4.Tracking_OF_Kalman import *
 import cv2
 
 
@@ -134,8 +135,8 @@ def task31():
 
 
 if __name__ == '__main__':
-    task11(grid_search=False,seq=45,visualization=True)
+    task11(grid_search=True,seq=45,visualization=True)
     #task12(45, 'farneback', 'quiver_based')
-    #task21()
-    #task22(method=2)
-    # task31()
+    task21()
+    task22(method=1)
+    task31()
