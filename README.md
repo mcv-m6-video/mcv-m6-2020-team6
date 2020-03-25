@@ -22,6 +22,8 @@ The goal of this project is to learn the basic concepts and techniques related t
 
 ### [Week_3: Object detection and tracking](https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_3)
 
+### [Week_4: Optical Flow and video stabilization](https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4)
+
 
 
 
