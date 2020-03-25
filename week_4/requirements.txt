@@ -1,0 +1,14 @@
+imageio==2.6.1
+numpy==1.16.4
+filterpy==1.4.5
+scipy==1.2.1
+scikit_image==0.15.0
+matplotlib==3.1.1
+click==7.1.1
+motmetrics==1.2.0
+Pillow==7.0.0
+pytest==5.4.1
+scikit_learn==0.22.2.post1
+skimage==0.0
+tqdm==4.43.0
+vidstab==1.7.3
