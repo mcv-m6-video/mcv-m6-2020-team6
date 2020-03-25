@@ -7,9 +7,10 @@ The goal of this week 4 is to learn about  estimating the optical flow of a vide
 ```bash
 pip install -r requirements.txt
 
+```
+
 To use the PyFlow implementation we recommend to use the original [repository](https://github.com/pathak22/pyflow) to install all the correct packages 
 
-```
 #### Execution
 
  All the implemented tasks can be run from ```main_week_4.py``` which is used to collect all work done.
@@ -58,28 +59,28 @@ To use the PyFlow implementation we recommend to use the original [repository](h
 
 - Task 1.1: Optical flow with Block Matching
 <div align="center">
-  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4/results/flow_45_blockMatching_quiver.png">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_4/results/flow_45_blockMatching_quiver.png">
 </div>
 
 - Task 1.2: Off-the-shelf Optical Flow
   
   
 <div align="center">
-  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4/results/pyflow_output.png">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_4/results/pyflow_output.png">
 </div>
 
 <div align="center">
-  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4/results/farneback_output.png">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_4/results/farneback_output.png">
 </div>
 
 <div align="center">
-  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4/results/lucas_output%20-%20còpia.png">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_4/results/lucas_output%20-%20c%C3%B2pia.png">
 </div>
 
 - Task 2.1: Video Stabilization with Block Matching
 
 <div align="center">
-  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4/results/our_stabilization/walk_32.gif">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_4/results/our_stabilization/walk_32.gif">
 </div>
 
 
@@ -87,18 +88,18 @@ To use the PyFlow implementation we recommend to use the original [repository](h
 
 
 <div align="center">
-  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4/results/stable_video_fast.avi">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_4/results/stable_video_fast.avi">
 </div>
 
 <div align="center">
-  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4/results/stable_video_orb.avi">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_4/results/stable_video_orb.avi">
 </div>
 
 
 - T3.1: Object Tracking with Optical Flow
 
 <div align="center">
-  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4/results/comparison.gif">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_4/results/comparison.gif">
 </div>
 
 
@@ -115,5 +116,5 @@ To use the PyFlow implementation we recommend to use the original [repository](h
 </div>
 
 <div align="center">
-  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4/results/cam-3.gif">
+  <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/week_4/results/cam-3.gif">
 </div>
