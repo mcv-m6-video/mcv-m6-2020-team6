@@ -1,0 +1,9 @@
+classification_models
+albumentations
+keras
+tensorflow-gpu
+matplotlib
+albumentations
+scikit-learn
+opencv-python
+keras-rectified-adam
