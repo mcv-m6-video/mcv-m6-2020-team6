@@ -1,8 +1,8 @@
-### Week 5
+# Week 5
 
 The main goal of this week is to combine everything we've learned so far and come up with a solution to the Track 3 of [AI City Challenge](https://www.aicitychallenge.org) (i.e. a system for multi-camera multi-traget tracking).
 
-#### Installation
+## Installation
 
 Please use Python 3.7+.
 
@@ -20,15 +20,16 @@ pip install -r EmbeddingNet/requirements.txt
 
 as well as adjust paths in the code.
 
-#### Execution
+## Execution
 
 We provide `stas/main.ipynb` jupyter notebook for evaluating and all basic visualizations
 
 Further methods can be explored in:
-`mtmc_features_frame.py` - MTMC - Histogram based method
-`stas/main_multicamera.py` - MTMC - Visualization with a map
 
-#### Task 1: Multi-target single-camera tracking
+- `mtmc_features_frame.py` - MTMC - Histogram based method
+- `stas/main_multicamera.py` - MTMC - Visualization with a map
+
+## Task 1: Multi-target single-camera tracking
 
 **Scores** for different sequences
 
@@ -52,7 +53,7 @@ Further methods can be explored in:
 </div>
 
 
-#### Task 2: Multi-Target multi-camera tracking
+## Task 2: Multi-Target multi-camera tracking
 
 **Scores** using ground-truth single-camera tracking
 

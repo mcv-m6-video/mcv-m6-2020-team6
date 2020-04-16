@@ -24,6 +24,12 @@ The goal of this project is to learn the basic concepts and techniques related t
 
 ### [Week_4: Optical Flow and video stabilization](https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_4)
 
+### [Week_5: Multi-Target Multi-Camera Tracking](https://github.com/mcv-m6-video/mcv-m6-2020-team6/tree/master/week_5)
+
+# Presentation
+
+The slides for the final presentation can be found [here](https://drive.google.com/open?id=1ndwDUP4WHI8uB9d9DtD2tVr1oIO9h5T5TTdt2TN6AX8)
+
 
 
 
