@@ -26,7 +26,7 @@ We provide `stas/main.ipynb` jupyter notebook for evaluating and all basic visua
 
 Further methods can be explored in:
 
-- `mtmc_features_frame.py` - MTMC - Histogram based method
+- `mtmc_histogram.py` - MTMC - Histogram based method
 - `stas/main_multicamera.py` - MTMC - Visualization with a map
 
 ## Task 1: Multi-target single-camera tracking
