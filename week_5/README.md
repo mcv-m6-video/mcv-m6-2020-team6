@@ -70,19 +70,21 @@ Further methods can be explored in:
 **Visualization** using kalman tracking with gps coordinates and EmbeddingNet
 
 <div align="center">
-<img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week5/multi1.gif">
-</div>
-<div align="center">
-<img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week5/multi2.gif">
-</div>
-
-
-**Visualization** using histogram of colors
-
-<div align="center">
 <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week5/multihist0.gif">
 </div>
 <div align="center">
 <img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week5/multihist1.gif">
+</div>
+
+
+
+**Visualization** using histogram of colors
+
+
+<div align="center">
+<img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week5/multi1.gif">
+</div>
+<div align="center">
+<img src="https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/results_week5/multi2.gif">
 </div>
 
