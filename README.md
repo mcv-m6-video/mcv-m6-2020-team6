@@ -30,6 +30,10 @@ The goal of this project is to learn the basic concepts and techniques related t
 
 The slides for the final presentation can be found [here](https://drive.google.com/open?id=1ndwDUP4WHI8uB9d9DtD2tVr1oIO9h5T5TTdt2TN6AX8)
 
+# Report
+
+The final report is available [here](https://github.com/mcv-m6-video/mcv-m6-2020-team6/blob/master/Final_Report.pdf)
+
 
 
 
