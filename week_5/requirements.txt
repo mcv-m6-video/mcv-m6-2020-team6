@@ -14,7 +14,7 @@ classification_models==0.1
 imageio==2.8.0
 imageio-ffmpeg==0.4.1
 keras_radam==0.15.0
-Pillow==7.1.1
+Pillow==9.3.0
 plotly==4.6.0
 PyYAML==5.3.1
 scikit_learn==0.22.2.post1
